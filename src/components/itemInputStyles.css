@@ -1,0 +1,24 @@
+input {
+  width: 90%;
+  max-width: 560px;
+  border: none;
+  border-bottom: 1px solid white;
+  background-color: transparent;
+  outline: none;
+
+  caret-color: white;
+  color: white;
+  font-size: large;
+
+  display: block;
+  margin: 5px auto;
+}
+
+form button {
+  width: 100px;
+  padding: 5px;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  font-size: large;
+}

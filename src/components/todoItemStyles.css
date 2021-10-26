@@ -1,0 +1,20 @@
+.todoItem {
+  display: flex;
+  color: white;
+  margin: 5px;
+  padding: 5px;
+}
+.tickButton,
+.crossButton {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: white;
+  font-size: 24px;
+}
+
+.itemText {
+  margin: auto 20px;
+  text-align: left;
+  flex: 1 1 auto;
+}

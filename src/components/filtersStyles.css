@@ -1,0 +1,12 @@
+.filterContainer {
+  max-width: 600px;
+  margin: auto;
+
+  display: flex;
+  justify-content: space-around;
+}
+.filter {
+  border: 1px solid white;
+  padding: 1px;
+  min-width: 100px;
+}
